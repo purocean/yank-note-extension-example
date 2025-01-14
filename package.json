@@ -15,7 +15,7 @@
   "icon": "./icon.png",
   "engines": {
     "node": ">=14.6.0",
-    "yank-note": "^3.29.0"
+    "yank-note": "^3.80.0"
   },
   "themes": [
     {
@@ -48,7 +48,7 @@
     "@vitejs/plugin-vue": "^2.3.2",
     "@vue/eslint-config-standard": "^6.1.0",
     "@vue/eslint-config-typescript": "^10.0.0",
-    "@yank-note/runtime-api": "^3.30.0",
+    "@yank-note/runtime-api": "^3.80.2",
     "conventional-changelog-cli": "^2.2.2",
     "dayjs": "^1.11.1",
     "eslint": "^7.32.0",

@@ -383,10 +383,10 @@
   resolved "https://registry.yarnpkg.com/@vue/shared/-/shared-3.2.33.tgz#69a8c99ceb37c1b031d5cc4aec2ff1dc77e1161e"
   integrity sha512-UBc1Pg1T3yZ97vsA2ueER0F6GbJebLHYlEi4ou1H5YL4KWvMOOWwpYo9/QpWq93wxKG6Wo13IY74Hcn/f7c7Bg==
 
-"@yank-note/runtime-api@^3.30.0":
-  version "3.30.0"
-  resolved "https://registry.yarnpkg.com/@yank-note/runtime-api/-/runtime-api-3.30.0.tgz#8e406145cc1378b7a5ca8ec638b9290bcdc2ef87"
-  integrity sha512-JoAgYnodMEAOdjldmVde0mv2PG7mKhXVSepVDoKSHiZ3gBo7tIM9b1Rx4YuoHsl9roQAYkeQWL3jTe+gy9l0yg==
+"@yank-note/runtime-api@^3.80.2":
+  version "3.80.2"
+  resolved "https://registry.yarnpkg.com/@yank-note/runtime-api/-/runtime-api-3.80.2.tgz#62a2d8450c99dba682740a8b81eb397dcace34a6"
+  integrity sha512-KoyBZaAGtEN03QIkItYEhptAwl90l5jCpfruc4H0DTeMvt4xtw56cqqeHyWwf72REWaU09msrB67Tie7UMcM5A==
   dependencies:
     fs-extra "^10.1.0"
 
